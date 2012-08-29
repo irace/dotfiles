@@ -1,0 +1,1 @@
+Bash shell configuration files (boring ones, at that).
