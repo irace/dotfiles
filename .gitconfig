@@ -1,0 +1,7 @@
+[user]
+	name = Bryan Irace
+	email = bryan.irace@gmail.com
+[core]
+	editor = emacs
+[diff "localizablestrings"]
+    textconv = "iconv -f utf-16 -t utf-8"
