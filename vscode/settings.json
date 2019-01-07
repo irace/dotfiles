@@ -1,0 +1,23 @@
+{
+  "tslint.autoFixOnSave": true,
+
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.rulers": [140],
+  "editor.minimap.enabled": false,
+
+  "files.defaultLanguage": "markdown",
+
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "window.zoomLevel": 0,
+  "terminal.integrated.rendererType": "dom",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "onFocusChange",
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
