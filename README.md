@@ -1,3 +1,5 @@
+# dotfiles
+
 Configuration files (boring ones, at that). Bash, VS Code, etc.
 
 ## License
